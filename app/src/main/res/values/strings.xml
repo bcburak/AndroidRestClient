@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RestClientApp</string>
+    <string name="title_activity_get_main">GetMain</string>
+    <string name="action_settings">Settings</string>
+</resources>
